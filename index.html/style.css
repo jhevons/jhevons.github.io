@@ -1,0 +1,60 @@
+.header {
+    padding : 50px;
+    text-align: left;
+    background-color: #0F0D0D;
+    color:#0F0D0D;
+    width: 100%;
+    position: fixed;
+
+}
+
+.icon img {
+    width:50px;
+    float: left;
+    height:4px;
+}
+
+.menu {
+    width: 410px;
+    float: left;
+    height: 70px;
+    display: block;
+    text-transform: uppercase;
+}
+
+.logo {
+    position: relative;
+    top: -100px;
+    right: -20px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: -110%;
+  }
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 80px 55px;
+    text-decoration: none;
+  }
+  img {
+    max-width: 300%;
+    height: auto; 
+    
+  }
+  
+  .image-side {
+    float: left;
+
+    display: block;
+  }
